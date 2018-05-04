@@ -8,6 +8,8 @@
   - redux文档参考：`http://redux.js.org/`;
 
   - redux中文文档：`http://cn.redux.js.org/`; 
+  
+  - 微信小程资料：`http://www.php.cn/xiaochengxu-388965.html`
 
 
 ## yeoman生成自己项目文件脚手架(react)
