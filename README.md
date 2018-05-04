@@ -10,6 +10,8 @@
   - redux中文文档：`http://cn.redux.js.org/`; 
   
   - 微信小程资料：`http://www.php.cn/xiaochengxu-388965.html`
+  
+  - 学习手册：`http://www.php.cn/xiazai/shouce`
 
 
 ## yeoman生成自己项目文件脚手架(react)
