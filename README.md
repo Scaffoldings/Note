@@ -12,6 +12,7 @@
   - 微信小程资料：`http://www.php.cn/xiaochengxu-388965.html`
   
   - 学习手册：`http://www.php.cn/xiazai/shouce`
+  - 日历 Calendar - 蚂蚁设计平台：`http://design.alipay.com/develop/web/components/calendar/`
 
 
 ## yeoman生成自己项目文件脚手架(react)
