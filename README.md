@@ -18,9 +18,13 @@
   
   - ES2017 新特性：Async Functions (异步函数)：`http://www.css88.com/archives/7731`
   
-  -  TypeScript 中文文档(v2.4):`http://www.css88.com/doc/typescript/`
+  - TypeScript 中文文档(v2.4):`http://www.css88.com/doc/typescript/`
   
   - 当今人脸识别技术的主要行业应用: `https://segmentfault.com/a/1190000014823886?utm_source=index-hottest`
+  
+  - redux架构:`https://segmentfault.com/a/1190000014815318?utm_source=index-hottest`
+  
+  - 前端内网穿透，localtunnel你值得拥有！: `https://segmentfault.com/a/1190000014807448?utm_source=index-hottest`
 
 
 ## yeoman生成自己项目文件脚手架(react)
