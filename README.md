@@ -9,9 +9,10 @@
 
   - redux中文文档：`http://cn.redux.js.org/`; 
   
-  - 微信小程资料：`http://www.php.cn/xiaochengxu-388965.html`
+  - 微信小程序资料：`http://www.php.cn/xiaochengxu-388965.html` 
+  - 微信小程序插件：`https://marketplace.visualstudio.com/items?itemName=qiu8310.minapp-vscode`
   
-  - 学习手册：`http://www.php.cn/xiazai/shouce`
+  - 学习手册：`http://www.php.cn/xiazai/shouce` `http://www.cnblogs.com/wisewrong/`
   
   - 日历 Calendar - 蚂蚁设计平台：`http://design.alipay.com/develop/web/components/calendar/`
   
